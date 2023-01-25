@@ -3,6 +3,8 @@
 </br>
 
 Simple Java application using a SOAP web service from <a><b>lavasoft.com</b></a> that runs from console.
+<br>
+I generated the stub using <b>wsimport</b>
 
 <b>Installation</b>
 
